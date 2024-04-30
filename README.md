@@ -1,6 +1,8 @@
 # exam_week_2
 
 A new Flutter project.
+![Screenshot_21](https://github.com/JImaruf/Exam_Week_2/assets/95274187/bb0af308-506e-4f60-ad9f-bfb96aa8ffe8)
+![Screenshot_22](https://github.com/JImaruf/Exam_Week_2/assets/95274187/0e7bdc47-2f74-42d0-9c85-f1fbb4debc92)
 
 ## Getting Started
 
