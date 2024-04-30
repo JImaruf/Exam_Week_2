@@ -7,10 +7,10 @@ class landScape extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SingleChildScrollView(
+    return const SingleChildScrollView(
       child: Center(
         child: Padding(
-          padding: const EdgeInsets.only(left: 10,right: 10),
+          padding: EdgeInsets.only(left: 10,right: 10),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
